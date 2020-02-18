@@ -159,3 +159,8 @@ arch/arm/boot/dts/vendor
 AtomX.sh
 out/
 work/
+
+#
+#Ignoring Android.bp link file
+#
+Android.bp
